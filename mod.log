@@ -1,0 +1,242 @@
+[16-05-09 14:17:50] Info: Compiling Shop Template to bin/build-160509141750878.dll...
+[16-05-09 14:17:50] Info: Compiling from `CustomShops.csproj`.
+[16-05-09 14:17:50] Info: Resolved assembly reference `Assembly-CSharp` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-05-09 14:17:50] Info: IGNORING assembly reference `Microsoft.CSharp`
+[16-05-09 14:17:50] Info: Resolved assembly reference `System` to `System.dll`
+[16-05-09 14:17:50] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-05-09 14:17:50] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-05-09 14:17:50] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-05-09 14:17:50] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-05-09 14:17:50] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-05-09 14:17:50] Info: Resolved assembly reference `UnityEngine` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-05-09 14:17:50] Info: Resolved assembly reference `UnityEngine.UI` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-05-09 14:17:50] Info: Source files: Main.cs, CustomShopLoader.cs, Shop\ShopInstance.cs, Shop\WerableProductInstance.cs, Shop\Decorator\IDecorator.cs, Shop\Decorator\PriceDecorator.cs, Shop\Decorator\NameDecorator.cs, Shop\ConsumableProductInstance.cs, Shop\Decorator\Product\ProductDecorator.cs, Shop\Decorator\Product\WerableProductDecorator.cs, Shop\Decorator\Product\ConsumableProductDecorator.cs, Shop\Decorator\ShopSettingsDecorator.cs, Shop\Decorator\Product\OnGoingProductDecorator.cs, Shop\OngoingEffectProductInstance.cs from `C:\Users\RobKing\Documents\Parkitect\pnmods\RobKingParkitect@TacoShop`.
+[16-05-09 14:17:50] Info: Compile using compiler version v3.5.
+14] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-24 18:59:34] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-24 18:59:34] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-24 19:01:23] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-24 19:01:23] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 03:09:59] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 03:09:59] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 04:08:00] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 04:08:00] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 04:16:25] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 04:16:25] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 04:20:16] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 04:20:16] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 04:21:15] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 04:21:15] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 04:44:54] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 04:44:54] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:01:42] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:01:42] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:06:05] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:06:05] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:15:57] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:15:57] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:21:05] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:21:05] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:25:21] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:25:21] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:31:18] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:31:18] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:37:14] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:37:14] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:39:37] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:39:37] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:40:20] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:40:20] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:41:14] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:41:14] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 05:57:48] Info: Loaded build-160224185810235, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 05:57:48] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 06:10:37] Info: Compiling Shop Template to bin/build-160227061037300.dll...
+[16-02-27 06:10:37] Info: Compiling from `CustomShops.csproj`.
+[16-02-27 06:10:37] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\RobKing\Desktop\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-02-27 06:10:37] Info: IGNORING assembly reference `Microsoft.CSharp`
+[16-02-27 06:10:37] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-27 06:10:37] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-27 06:10:37] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-27 06:10:37] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-27 06:10:37] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-27 06:10:37] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-27 06:10:37] Info: Resolved assembly reference `UnityEngine` to `C:\Users\RobKing\Desktop\Parkitect_Data\Managed\UnityEngine.dll`
+[16-02-27 06:10:37] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\RobKing\Desktop\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-02-27 06:10:37] Info: Source files: Main.cs, CustomShopLoader.cs, Shop\ShopInstance.cs, Shop\WerableProductInstance.cs, Shop\Decorator\IDecorator.cs, Shop\Decorator\PriceDecorator.cs, Shop\Decorator\NameDecorator.cs, Shop\ConsumableProductInstance.cs, Shop\Decorator\Product\ProductDecorator.cs, Shop\Decorator\Product\WerableProductDecorator.cs, Shop\Decorator\Product\ConsumableProductDecorator.cs, Shop\Decorator\ShopSettingsDecorator.cs, Shop\Decorator\Product\OnGoingProductDecorator.cs, Shop\OngoingEffectProductInstance.cs from `C:\Users\RobKing\Documents\Parkitect\pnmods\RobKingParkitect@TacoShop`.
+[16-02-27 06:10:46] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 06:10:46] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-27 17:46:14] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-27 17:46:14] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-29 04:08:13] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-29 04:08:13] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-29 04:08:37] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-29 04:08:37] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-03-08 20:20:42] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-08 20:20:42] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-03-09 02:06:15] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-09 02:06:15] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-03-09 02:13:35] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-09 02:13:35] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-03-12 17:03:34] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-12 17:03:34] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-03-12 17:06:49] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-03-12 17:06:49] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-04-04 01:29:27] Info: Loaded build-160227061037300, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-04 01:29:27] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 14:18:11] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 14:18:11] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 14:19:17] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 14:19:17] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 14:45:36] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 14:45:36] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 14:54:32] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 14:54:32] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 14:57:01] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 14:57:01] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 15:00:51] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 15:00:51] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 15:45:37] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 15:45:37] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 15:51:00] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 15:51:00] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 18:22:45] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 18:22:45] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:22:54] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:22:54] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:25:46] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:25:46] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:32:54] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:32:54] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:44:41] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:44:41] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:46:41] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:46:41] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:51:01] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:51:01] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:54:23] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:54:23] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:55:38] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:55:38] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:56:27] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:56:27] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 19:57:38] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 19:57:38] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 20:01:15] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 20:01:15] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 20:10:51] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 20:10:51] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 22:11:32] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 22:11:32] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-09 22:12:33] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-09 22:12:33] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 03:08:22] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 03:08:22] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 03:09:39] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 03:09:39] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 19:12:08] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 19:12:08] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 19:17:07] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 19:17:07] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 19:19:25] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 19:19:25] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 19:20:40] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 19:20:40] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 19:21:19] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 19:21:19] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 19:24:31] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 19:24:31] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 19:26:21] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 19:26:21] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:28:20] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:28:20] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:29:49] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:29:49] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:30:57] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:30:57] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:31:34] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:31:34] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:34:01] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:34:01] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:34:41] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:34:41] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:51:47] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:51:47] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:52:35] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:52:35] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:53:27] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:53:27] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 21:53:52] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:53:52] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:44:47] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:44:47] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:45:31] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:45:31] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:46:59] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:46:59] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:47:47] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:47:47] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:49:11] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:49:11] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:50:08] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:50:08] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:51:45] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:51:45] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:53:03] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:53:03] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:54:42] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:54:42] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 22:56:05] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 22:56:05] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:03:10] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:03:10] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:05:21] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:05:21] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:06:24] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:06:24] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:08:27] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:08:27] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:27:47] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:27:47] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:36:38] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:36:38] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:37:32] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:37:32] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:38:08] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:38:08] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:39:25] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:39:25] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-10 23:44:02] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 23:44:02] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:14:09] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:14:09] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:20:21] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:20:21] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:21:44] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:21:44] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:22:46] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:22:46] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:23:34] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:23:34] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:32:54] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:32:54] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:35:31] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:35:31] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:36:47] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:36:47] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:38:16] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:38:16] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:40:41] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:40:41] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:41:55] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:41:55] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:42:48] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:42:48] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:44:30] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:44:30] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:49:29] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:49:29] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:53:41] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:53:41] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-11 00:54:10] Info: Loaded build-160509141750878, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-11 00:54:10] Info: Sucessfully registered CustomShops.Main to the mod manager.
